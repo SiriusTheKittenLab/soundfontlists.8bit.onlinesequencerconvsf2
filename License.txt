@@ -1,0 +1,9 @@
+# soundfontlists.8bit.onlinesequencerconvsf2
+
+Under github, there is no custom licence option
+Here we will state our custom license:
+  Code Named "OS23 License"
+    You are prohibited from taking these samples and register as your own as they come from https://onlinesequencer.net/
+      You are also prohibited from calling the soundfont(s) as your own
+    You're are prohibited of calling Online Sequencer your own, unless you have full proof that you own it
+    Licenses are here to protect content that is not someone elses.
